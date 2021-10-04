@@ -30,7 +30,7 @@ Newer           Older
 <div align="center">
   <img border-radius: 15px src="" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="BXGUY" src="https://img.shields.io/badge/BXGUY-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="BXGUY" src="IMG-20211004-WA0075.jpg"></a>
 </p>
   <p align="center">
 <a href="https://github.com/Anshifizaanu"><img title="Author" src="https://img.shields.io/badge/Author-Anshifizaanu/BXGUY?color=blue&style=for-the-badge&logo=whatsapp"></a>
